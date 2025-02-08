@@ -20,7 +20,7 @@ GROUP BY
     skills 
 ORDER BY
     payment_count DESC
-LIMIT 25
+LIMIT 10
 
 /*
 Here are some quick insights and trends based on the top 25 highest-paying 
